@@ -1,0 +1,5 @@
+alert_type,count
+Comm_Failure,99
+Constant,96
+Tamper,82
+Zero,105
