@@ -20,3 +20,10 @@ Simulated Advanced Metering Infrastructure (AMI) system to practice data validat
 ```bash
 pip install streamlit plotly pandas
 streamlit run ami_dashboard.py
+```
+
+<img width="2240" height="1143" alt="Screenshot 2026-05-20 at 5 57 47 PM" src="https://github.com/user-attachments/assets/52d6ff8f-def0-4c0e-89c8-ec440b7491bf" />
+
+<img width="2240" height="1143" alt="Screenshot 2026-05-20 at 5 58 03 PM" src="https://github.com/user-attachments/assets/4fe0bf1b-8935-41ac-a3d6-3097e5da4362" />
+
+<img width="2240" height="1143" alt="Screenshot 2026-05-20 at 5 58 29 PM" src="https://github.com/user-attachments/assets/141130c1-cc44-424a-8303-13fb26b35ea7" />
