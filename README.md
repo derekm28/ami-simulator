@@ -1,6 +1,6 @@
 # AMI Data Validation Simulator
 
-Simulated Advanced Metering Infrastructure (AMI) system to practice data validation, exception reporting, and dashboard creation — tailored for utility roles like WSSC Water's AMI Analyst.
+Simulated Advanced Metering Infrastructure (AMI) system built to demonstrate ETL design, anomaly detection, and operational dashboard development.
 
 **Features**
 - Generates realistic smart water meter data (timestamps, usage in gallons, statuses, alerts, MD geo coordinates)
