@@ -18,7 +18,7 @@ Simulated Advanced Metering Infrastructure (AMI) system built to demonstrate ETL
 
 **To Run Locally**
 ```bash
-pip install streamlit plotly pandas
+pip install -r requirements.txt
 streamlit run ami_dashboard.py
 ```
 
